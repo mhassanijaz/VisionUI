@@ -679,7 +679,10 @@ html {
     align-items: center;
     justify-content: center;
   }
-  
+  .industry-img-pc
+  {
+    max-width: 100%;
+  }
   .image-title{
     position: absolute;
     bottom: 0;
